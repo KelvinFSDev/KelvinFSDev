@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+I'm+Kelvin+Kyei+Baffour;Computer+Information+Systems+Student;Aspiring+Software+Developer;Full-Stack+Web+Developer;React+%7C+Firebase+%7C+C%2B%2B" />
+</p>
 <h1 align="center">Hi, I'm Kelvin Kyei Baffour 👋</h1>
 
 <h3 align="center">
@@ -72,6 +75,10 @@ Computer troubleshooting, basic networking, Wi-Fi troubleshooting, and software 
 
 ---
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,js,react,firebase,html,css,git,github,vscode,visualstudio,vite" />
+</p>
+
 ## Other Projects
 
 - Grocery Shopping Calculator — C++
@@ -103,9 +110,18 @@ Computer troubleshooting, basic networking, Wi-Fi troubleshooting, and software 
 
 ---
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=KelvinFSDev" />
+</p>
+
+
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/kelvin-kyei-baffour-77b3a3425/)
 - [GitHub](https://github.com/KelvinFSDev)
 - [Live Project](https://www.avaiaszn.store)
 - Email: `Kelvinkyei2004@gmail.com`
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KelvinFSDev&label=Profile%20Views&color=000000&style=flat" />
+</p>
