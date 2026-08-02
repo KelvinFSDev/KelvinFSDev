@@ -16,13 +16,13 @@ Computer Information Systems / Software Development Student
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a **Computer Information Systems / Software Development** student at **Sinclair Community College** with experience building modern web applications and C++ software projects.
 
 I enjoy solving real-world problems through software development and continuously learning new technologies.
 
-Recently, I designed, developed, deployed, and continue to maintain a live full-stack e-commerce application for a clothing brand using React, JavaScript, Firebase, EmailJS, Paystack, Vite, and Vercel.
+Recently, I designed, developed, deployed, and continue to maintain a live full-stack e-commerce application for a clothing brand using **React, JavaScript, Firebase, EmailJS, Paystack, Vite, and Vercel**.
 
 I'm currently seeking a **Software Development Internship** or **IT Internship** where I can contribute, learn, and grow as a developer.
 
@@ -48,15 +48,22 @@ A production-ready full-stack e-commerce website developed for a real clothing b
 
 ### Tech Stack
 
-React • JavaScript • Firebase • Firestore • EmailJS • Paystack • Vite • Vercel
+- React
+- JavaScript
+- Firebase
+- Firestore
+- EmailJS
+- Paystack
+- Vite
+- Vercel
 
-### Live Demo
+### 🌐 Live Demo
 
-🌐 https://www.avaiaszn.store
+https://www.avaiaszn.store
 
-### Source Code
+### 💻 Source Code
 
-💻 https://github.com/KelvinFSDev/avaiaszn-clothing-store
+https://github.com/KelvinFSDev/avaiaszn-clothing-store
 
 ---
 
@@ -66,25 +73,25 @@ React • JavaScript • Firebase • Firestore • EmailJS • Paystack • Vit
 <img src="https://skillicons.dev/icons?i=cpp,js,react,firebase,html,css,git,github,vscode,visualstudio,vite&perline=6" />
 </p>
 
-### Languages
+## Languages
 
 - C++
 - JavaScript
 - HTML
 - CSS
 
-### Frameworks & Libraries
+## Frameworks & Libraries
 
 - React
 - Firebase
 - Vite
 
-### Services
+## Services
 
 - EmailJS
 - Paystack
 
-### Developer Tools
+## Developer Tools
 
 - Git
 - GitHub
@@ -113,19 +120,6 @@ React • JavaScript • Firebase • Firestore • EmailJS • Paystack • Vit
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KelvinFSDev&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFSDev&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-
----
-
 # 🎯 Career Goals
 
 - Secure a Software Development Internship
@@ -138,16 +132,20 @@ React • JavaScript • Firebase • Firestore • EmailJS • Paystack • Vit
 
 # 📫 Connect With Me
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/kelvin-kyei-baffour-77b3a3425/
 
-💻 **GitHub**  
+💻 **GitHub**
+
 https://github.com/KelvinFSDev
 
-🌐 **Live Project**  
+🌐 **Live Project**
+
 https://www.avaiaszn.store
 
-📧 **Email**  
+📧 **Email**
+
 Kelvinkyei2004@gmail.com
 
 ---
