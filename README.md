@@ -1,7 +1,7 @@
-<p align="center">
+
+<h1 align="center"><p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+I'm+Kelvin+Kyei+Baffour;Computer+Information+Systems+Student;Aspiring+Software+Developer;Full-Stack+Web+Developer;React+%7C+Firebase+%7C+C%2B%2B" />
-</p>
-<h1 align="center">Hi, I'm Kelvin Kyei Baffour 👋</h1>
+</p>Hi, I'm Kelvin Kyei Baffour 👋</h1>
 
 <h3 align="center">
 Computer Information Systems / Software Development Student
