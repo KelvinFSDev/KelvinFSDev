@@ -123,9 +123,6 @@ React • JavaScript • Firebase • Firestore • EmailJS • Paystack • Vit
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFSDev&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KelvinFSDev&theme=github-dark&hide_border=true" />
-</p>
 
 ---
 
