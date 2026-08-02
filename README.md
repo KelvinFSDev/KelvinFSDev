@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=000000&center=true&vCenter=true&width=850&lines=Hi+I'm+Kelvin+Kyei+Baffour;Computer+Information+Systems+Student;Full-Stack+Web+Developer;React+%7C+Firebase+%7C+JavaScript+%7C+C%2B%2B;Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+I'm+Kelvin+Kyei+Baffour;Computer+Information+Systems+Student;Software+Development+Student;Full-Stack+Web+Developer;React+%7C+Firebase+%7C+JavaScript+%7C+C%2B%2B;Building+Real-World+Applications" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kelvin Kyei Baffour</h1>
@@ -18,19 +18,21 @@ Computer Information Systems / Software Development Student
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Information Systems / Software Development** student at **Sinclair Community College** with a passion for building modern web applications and solving real-world problems through software.
+I'm a **Computer Information Systems / Software Development** student at **Sinclair Community College** with experience building modern web applications and C++ software projects.
 
-I enjoy learning new technologies, creating full-stack applications, and continuously improving my programming skills.
+I enjoy solving real-world problems through software development and continuously learning new technologies.
 
-I'm currently seeking a **Software Development** or **IT Support Internship** where I can contribute, gain experience, and continue growing as a developer.
+Recently, I designed, developed, deployed, and continue to maintain a live full-stack e-commerce application for a clothing brand using React, JavaScript, Firebase, EmailJS, Paystack, Vite, and Vercel.
+
+I'm currently seeking a **Software Development Internship** or **IT Internship** where I can contribute, learn, and grow as a developer.
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-# 🛍 AVAIASZN Clothing Store
+## 🛍 AVAIASZN Clothing Store
 
-A live full-stack e-commerce clothing website designed and developed for a real clothing brand.
+A production-ready full-stack e-commerce website developed for a real clothing brand.
 
 ### Features
 
@@ -39,12 +41,12 @@ A live full-stack e-commerce clothing website designed and developed for a real 
 - Product Search
 - Order Tracking
 - Email Notifications
-- Secure Paystack Payments
+- Secure Paystack Payment Integration
 - Responsive Design
 - Firebase Backend
 - Admin Product Management
 
-### Built With
+### Tech Stack
 
 React • JavaScript • Firebase • Firestore • EmailJS • Paystack • Vite • Vercel
 
@@ -61,7 +63,7 @@ React • JavaScript • Firebase • Firestore • EmailJS • Paystack • Vit
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,react,firebase,html,css,git,github,vscode,visualstudio,vite" />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,firebase,html,css,git,github,vscode,visualstudio,vite&perline=6" />
 </p>
 
 ### Languages
@@ -77,34 +79,36 @@ React • JavaScript • Firebase • Firestore • EmailJS • Paystack • Vit
 - Firebase
 - Vite
 
-### Tools
+### Services
+
+- EmailJS
+- Paystack
+
+### Developer Tools
 
 - Git
 - GitHub
 - Visual Studio
 - Visual Studio Code
 - Vercel
-- EmailJS
-- Paystack
 
 ---
 
 # 📚 Academic Projects
 
+- Grocery Shopping Calculator (C++)
 - Banking System (C++)
-- Monthly Budget Tracker
-- Grocery Shopping Calculator
-- Red Pixel Image Analyzer
+- Monthly Budget Tracker (C++)
+- Red Pixel Image Analyzer (C++)
 
 ---
 
 # 🌱 Currently Learning
 
-- React
 - Node.js
-- Express.js
-- REST APIs
+- TypeScript
 - SQL
+- REST APIs
 - Data Structures & Algorithms
 
 ---
@@ -112,47 +116,47 @@ React • JavaScript • Firebase • Firestore • EmailJS • Paystack • Vit
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KelvinFSDev&show_icons=true&theme=default&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KelvinFSDev&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFSDev&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinFSDev&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=KelvinFSDev&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KelvinFSDev&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 # 🎯 Career Goals
 
+- Secure a Software Development Internship
 - Become a Full-Stack Software Engineer
 - Build scalable web applications
 - Contribute to open-source projects
-- Secure a Software Development Internship
-- Continue learning modern technologies
+- Continue learning modern software technologies
 
 ---
 
 # 📫 Connect With Me
 
-💼 LinkedIn  
+💼 **LinkedIn**  
 https://www.linkedin.com/in/kelvin-kyei-baffour-77b3a3425/
 
-💻 GitHub  
+💻 **GitHub**  
 https://github.com/KelvinFSDev
 
-🌐 Portfolio  
+🌐 **Live Project**  
 https://www.avaiaszn.store
 
-📧 Email  
+📧 **Email**  
 Kelvinkyei2004@gmail.com
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=KelvinFSDev&label=Profile+Views&color=000000&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=KelvinFSDev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-⭐️ Thanks for visiting my profile!
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
